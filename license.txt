@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sketch Cat
+* source:	https://sketchfab.com/3d-models/sketch-cat-79c1321b05ca47b79ee3111ff449518e
+* author:	katarkhei (https://sketchfab.com/katarkhei)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sketch Cat" (https://sketchfab.com/3d-models/sketch-cat-79c1321b05ca47b79ee3111ff449518e) by katarkhei (https://sketchfab.com/katarkhei) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
